@@ -1,0 +1,21 @@
+PODS:
+  - DDCalendarView (2.0)
+
+DEPENDENCIES:
+  - DDCalendarView (from `https://github.com/Daij-Djan/DDCalendarView.git`, branch
+    `master`)
+
+EXTERNAL SOURCES:
+  DDCalendarView:
+    :branch: master
+    :git: https://github.com/Daij-Djan/DDCalendarView.git
+
+CHECKOUT OPTIONS:
+  DDCalendarView:
+    :commit: 8db58e898c5d6211bb8120943f0ee01d8e0dd36c
+    :git: https://github.com/Daij-Djan/DDCalendarView.git
+
+SPEC CHECKSUMS:
+  DDCalendarView: 2d4ac39dc2037af860c5d6ef837f4b5e391ad07e
+
+COCOAPODS: 0.39.0
